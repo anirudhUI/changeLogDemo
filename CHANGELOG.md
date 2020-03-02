@@ -6,6 +6,7 @@
 
 **Merged pull requests:**
 
+- a new feature is added [\#2](https://github.com/limca7up/changeLogDemo/pull/2) ([limca7up](https://github.com/limca7up))
 - dummy message [\#1](https://github.com/limca7up/changeLogDemo/pull/1) ([limca7up](https://github.com/limca7up))
 
 
